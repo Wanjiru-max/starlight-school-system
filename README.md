@@ -1,46 +1,70 @@
 # 🎓 Starlight Institute School Management System
 
-A web-based School Management System developed for **Starlight Institute** to streamline academic and administrative operations.
+A web-based School Management System developed to manage academic and administrative activities at Starlight Institute.
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Description
 
-This system helps manage key school activities such as student registration, teacher management, course allocation, enrollment, and exam results. It is designed to improve efficiency and reduce manual work.
+This system is designed to simplify school operations such as managing students, teachers, courses, enrollments, and exam results. It reduces manual work and improves efficiency.
 
 ---
 
-## ⚙️ Features
+## 🚀 Features
 
-- 🔐 User Authentication (Admin & Teacher roles)
-- 👨‍🎓 Student Management (Add, Edit, Delete)
-- 👩‍🏫 Teacher Management
-- 📚 Course Management
-- 📝 Student Enrollment System
-- 📊 Exam Results Management
-- 📄 Enrollment Reports (with filters)
-- 🚫 Prevention of duplicate enrollments
-- ✏️ Edit & Delete functionalities with confirmation
+- User Authentication (Admin & Teacher roles)
+- Student Management (Add, Edit, Delete)
+- Teacher Management
+- Course Management
+- Student Enrollment System
+- Exam Results Management
+- Enrollment Reports with filters
+- Prevention of duplicate enrollments
+- Edit and Delete with confirmation
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Frontend:** HTML, CSS
-- **Backend:** PHP
-- **Database:** MySQL
-- **Tools:** XAMPP / WAMP
+- HTML
+- CSS
+- PHP
+- MySQL
 
 ---
 
-## 🏫 About Starlight Institute
-
-Starlight Institute is committed to providing quality education through modern systems that enhance learning and administration.
-
----
-
-## 🚀 Installation Guide
+## ⚙️ Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/your-username/repo-name.git
+
+2. Move project to:
+   - XAMPP → htdocs
+   - WAMP → www
+
+3. Import the database using phpMyAdmin
+
+4. Start Apache and MySQL
+
+5. Open in browser:
+   http://localhost/project-folder
+
+---
+
+## 🔑 Login
+
+Add your login credentials here if needed.
+
+---
+
+## 📌 Author
+
+Your Name  
+Bachelor degree in IT  
+Starlght Institute 
+
+---
+
+## 📄 License
+
+MIT License
